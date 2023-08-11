@@ -33,9 +33,6 @@ test {
     useJUnitPlatform()
 }
 
-jar {
-    enabled = false
-}
 
 repositories {
     mavenCentral()
